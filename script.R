@@ -29,6 +29,8 @@ train_data <- train_data %>%
   tidyr::fill(CategoryCode, ItemCode, .direction = "down")
 
 
+# Data visualization
+# By CategoryCode
 
 
 
